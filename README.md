@@ -123,35 +123,35 @@
             <div class="cartao" id="cartao1">
                 <h2>Albert Einstein</h2>
                 <p>
-                    "A imaginação é mais importante que o conhecimento."
+                    "A imaginação é mais importante que o conhecimento." 8.21
                 </p>
             </div>
 
             <div class="cartao" id="cartao2">
                 <h2>Steve Jobs</h2>
                 <p>
-                    "Se você realmente olhar de perto, a maioria dos sucessos da noite para o dia demorou muito."
+                    "Se você realmente olhar de perto, a maioria dos sucessos da noite para o dia demorou muito." 5.17
                 </p>
             </div>
 
             <div class="cartao" id="cartao3">
                 <h2>Oprah Winfrey</h2>
                 <p>
-                    "O que eu sei de verdade é: sua jornada começa com a decisão de se levantar, sair e viver plenamente."
+                    "O que eu sei de verdade é: sua jornada começa com a decisão de se levantar, sair e viver plenamente." 4.58
                 </p>
             </div>
 
             <div class="cartao" id="cartao4">
                 <h2>Ayrton Senna</h2>
                 <p>
-                    "Vencer sem riscos é triunfar sem glória."
+                    "Vencer sem riscos é triunfar sem glória." 3.10
                 </p>
             </div>
 
             <div class="cartao" id="cartao5">
                 <h2>Renato Russo</h2>
                 <p>
-                    "Nunca deixe de ser você, mesmo que ser você desagrade a alguém."
+                    "Nunca deixe de ser você, mesmo que ser você desagrade a alguém." 7.12
                 </p>
             </div>
 
@@ -161,6 +161,7 @@
                     "O mundo é grande e cabe nesta janela sobre o mar.
 O mar é grande e cabe na cama e no colchão de amar.
 O amor é grande e cabe no breve espaço de beijar."
+6
                 </p>
             </div>
 
@@ -170,15 +171,14 @@ O amor é grande e cabe no breve espaço de beijar."
                     ⁠"A vida é um hospital
 Onde quase tudo falta.
 Por isso ninguém se cura
-E morrer é que é ter alta.
+E morrer é que é ter alta. 1.71
                 </p>
             </div>
 
             <div class="cartao" id="cartao8">
                 <h2>Machado de Assis </h2>
                 <p>
-                    "⁠Lutar. Podes escachá-los ou não; o essencial é que lutes. Vida é luta. Vida sem luta é um mar morto no centro do organismo universal."
-                </p>
+                    "⁠Lutar. Podes escachá-los ou não; o essencial é que lutes. Vida é luta. Vida sem luta é um mar morto no centro do organismo universal." 7.52
             </div>
 
         </div>
